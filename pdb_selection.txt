@@ -1,0 +1,9 @@
+
+I've found 4 distinct binding sites. 
+Multiple ligand copies in the same crystal result in random sites being choosen.
+The 2-3 sites that enrich best are on the outside of the protein. 
+Niu choose the interior site.
+PLP should be LLP instead.
+
+1gfz-18.75(2.30), 3nc4-18.09(2.07), 3bcu-18.02(2.03)
+
